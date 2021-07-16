@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300548183822",
+    "project_id": "kuliner-asli-nusantara-4344c",
+    "storage_bucket": "kuliner-asli-nusantara-4344c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300548183822:android:7d2e72b76e0430e249a95f",
+        "android_client_info": {
+          "package_name": "com.example.ekuliner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300548183822-p3ks0o657f33d2num580mfqtfjgmfjnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekuliner",
+            "certificate_hash": "37216cb31f50062881abb6b747c68ffe9f24cca2"
+          }
+        },
+        {
+          "client_id": "300548183822-nb67trqb9b0oc3p1ltsjebre4hd2ovp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfy2cT6auuOLCcIBX7gC8vILJYYnXwtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300548183822-nb67trqb9b0oc3p1ltsjebre4hd2ovp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
